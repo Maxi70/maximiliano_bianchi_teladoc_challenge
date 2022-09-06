@@ -1,7 +1,9 @@
 # maximiliano_bianchi_teladoc_challenge
 BDD automation framework: Selenium IDE
 Browser: Chrome webdriver
+
 Url tested: http://www.way2automation.com/angularjs-protractor/webtables/
+
 Steps to follow: First of all I open Selenium IDE to créate the Project for the test scenarios.
  
 Test Scenario 1:
